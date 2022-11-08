@@ -2,8 +2,6 @@
 
 **`JuniorProgramming (Student/Photographer)`**
 
-My introduction
-
 <img align="justify" width="600" src="https://media.tenor.com/YM5oAr3y6AYAAAAC/the-sandman.gif" />
 
 I'm an student, from the Telkom Surabaya Institute of Technology. I am currently taking Software Engineering study program, I am studying the C/C++, Python, Java, Kotlin . programming 
