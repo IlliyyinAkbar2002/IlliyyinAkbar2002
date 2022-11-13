@@ -1,4 +1,4 @@
-# Illiyyin Akbar Ariyanto
+# :raised_hand: Hi There! I'm Illiyyin Akbar Ariyanto
 
 **`JuniorProgramming (Student/Photographer)`**
 
