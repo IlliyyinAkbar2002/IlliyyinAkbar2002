@@ -1,6 +1,6 @@
 # :raised_hand: Hi There! I'm Illiyyin Akbar Ariyanto
 
-**`JuniorProgramming (Student/Photographer)`**
+**`JuniorProgramming (Student/Photographer/Junior Programmer)`**
 
 <img align="justify" width="600" src="https://media.tenor.com/YM5oAr3y6AYAAAAC/the-sandman.gif" />
 
