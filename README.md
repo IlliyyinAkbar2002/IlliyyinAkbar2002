@@ -4,7 +4,7 @@
 
 <img align="justify" width="600" src="https://media.tenor.com/YM5oAr3y6AYAAAAC/the-sandman.gif" />
 
-I'm a student from Telkom Surabaya Institute of Technology. I'm currently taking Software Engineering study program. I'm studying the C/C++, Python, Java, Kotlin . programming 
+I'm a Software Engineering undergraduate student from Telkom Surabaya Institute of Technology. I'm currently studying the C/C++, Python, Java, Kotlin programming. 
 
 ### 🧰 Languages and Tools
 
