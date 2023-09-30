@@ -2,7 +2,7 @@
 
 **`JuniorProgramming (Student/Software Engineering/Photographer/AI, Machine Learning & Deep Learning Interest/)`**
 
-<img align="justify" width="600" src="https://media.tenor.com/YM5oAr3y6AYAAAAC/the-sandman.gif" />
+<img align="justify" width="950" src="https://media.tenor.com/YM5oAr3y6AYAAAAC/the-sandman.gif" />
 
 I'm a Software Engineering undergraduate student from Telkom Surabaya Institute of Technology. I'm currently studying the C/C++, Python, SQL, Java, Kotlin programming. 
 
