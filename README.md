@@ -22,11 +22,4 @@ I'm a Software Engineering undergraduate student from Telkom Surabaya Institute 
 <img align="left" alt="PostgreSQL" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Remix" width="45px" style="padding-right:10px" src="https://remix-project.org/static/media/team-mobile-bck.75fbee72485471254ee5816fa5ffe5ab.svg" />
 <img align="left" alt="Ethereum" width="35px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" />
-<img align="left" alt="Solidity" width="35px" style="padding-right:10px" src="https://www.cdnlogo.com/logos/s/73/solidity.svg" />
-
-          
-          
-<br />
-<br /> 
-
-#           
+<img align="left" alt="Solidity" width="35px" style="padding-right:10px" src="https://www.cdnlogo.com/logos/s/73/solidity.svg" />        
