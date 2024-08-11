@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/65bfd645-8f38-4509-ad6d-84fcd236e61f)# :raised_hand: Hi There! I'm Illiyyin Akbar Ariyanto
+Hi There! I'm Illiyyin Akbar Ariyanto
 
-**`JuniorProgramming (Student/Software Engineering/Web3/Blockchain/Cryto Ethereum/Smart-Contract Engineers)`**
+**`JuniorProgramming (Student/Software Engineering/Web3/Blockchain/Cryto Ethereum/Smart-Contract Engineers/Front End Developer)`**
 
 <img align="justify" width="950" src="https://media.tenor.com/YM5oAr3y6AYAAAAC/the-sandman.gif" />
 
